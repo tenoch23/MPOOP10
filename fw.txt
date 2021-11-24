@@ -1,0 +1,13 @@
+Esto es un mensaje
+Hola mundo
+texto para la linea 3
+Linea 0del for
+Linea 1del for
+Linea 2del for
+Linea 3del for
+Linea 4del for
+Linea 5del for
+Linea 6del for
+Linea 7del for
+Linea 8del for
+Linea 9del for
